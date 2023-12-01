@@ -1,0 +1,1 @@
+<?php	define("dbhost",      "khrystynaphpserver.mysql.database.azure.com");	define("dbuser",      "KhrystynaPhp");	define("dbpass",      "18012004Gkt");	define("dbname",      "phpshop");?>
